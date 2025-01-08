@@ -8,37 +8,51 @@ This project is a web-based calculator designed to resemble an actual physical c
 
 ## Features
 Fully interactive design using HTML, CSS, and JavaScript.
+
 Real-time display of the entire equation (e.g., 4+5+6) as operations are performed.
+
 Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+
 Clear (C) button to reset the calculator.
+
 Elegant 3D design to mimic a physical calculator.
+
 Lightweight and responsive design suitable for all screen sizes.
 
 --------------------------
 
 ## Technologies Used
 HTML: Structure of the calculator.
+
 CSS: Styling for the calculator, including the 3D effect and layout.
+
 JavaScript: Logic for interactive functionality and arithmetic calculations.
 
 --------------------------
 
 ## Project Files
 index.html: The main HTML file containing the calculator's structure.
+
 style.css: The CSS file for styling and layout.
+
 script.js: The JavaScript file for implementing the calculator's logic.
 
 -------------------------
 
 ## How It Works
 User Interaction: Buttons are clicked to input numbers and operators.
+
 Equation Display: The full equation is displayed as you type, including numbers and operators.
+
 Calculation: When the = button is pressed, the calculator evaluates the expression step by step.
+
 Clear Functionality: The C button resets the display and clears all inputs.
 
 -------------------------
 
 ## Future Improvements
 Add support for advanced functions such as square roots, percentages, and memory storage.
+
 Implement keyboard input support.
+
 Add a history feature to track past calculations.
