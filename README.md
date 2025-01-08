@@ -41,6 +41,26 @@ Clear Functionality: The C button resets the display and clears all inputs.
 
 -------------------------
 
+## Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+   
+2. **Navigate to the Project Directory**
+   ```bash
+   cd your-repository
+   ```
+
+3. **Open the Project**
+   Open the `index.html` file in your web browser.
+
+------------------------
+
+
 ## Screenshot
 
 ![Screenshot 2025-01-09 005906](https://github.com/user-attachments/assets/5990cd35-074b-45a7-8c03-d5191cdf4163)
