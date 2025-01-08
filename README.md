@@ -28,15 +28,6 @@ CSS: Styling for the calculator, including the 3D effect and layout.
 
 JavaScript: Logic for interactive functionality and arithmetic calculations.
 
---------------------------
-
-## Project Files
-index.html: The main HTML file containing the calculator's structure.
-
-style.css: The CSS file for styling and layout.
-
-script.js: The JavaScript file for implementing the calculator's logic.
-
 -------------------------
 
 ## How It Works
@@ -47,6 +38,13 @@ Equation Display: The full equation is displayed as you type, including numbers 
 Calculation: When the = button is pressed, the calculator evaluates the expression step by step.
 
 Clear Functionality: The C button resets the display and clears all inputs.
+
+-------------------------
+
+## Screenshot
+
+![Screenshot 2025-01-09 005906](https://github.com/user-attachments/assets/5990cd35-074b-45a7-8c03-d5191cdf4163)
+
 
 -------------------------
 
